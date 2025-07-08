@@ -1,0 +1,11 @@
+.banner {
+  height: 100vh;
+  background: url('/banner.jpg') center/cover no-repeat;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  cursor: pointer;
+  text-align: center;
+}
